@@ -1,9 +1,9 @@
 ### Hi there 👋, I am cj3dreams
-#### I am Jr.+ Android Developer
+#### I am Jr. Android Developer
 
 # coming soon
 
-Skills: Android / Kotin / Android XML
+Skills: Android / Kotlin / Android XML
 
 - 🔭 I’m currently working on this page. 
 
